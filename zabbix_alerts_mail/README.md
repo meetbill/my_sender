@@ -6,5 +6,5 @@
 		src="http://img.labnol.org/images/2008/04/gif-animation.gif">
 </p>
 ### alerts
-(1)turn the selinux
+(1)You need to turn off selinux
 
